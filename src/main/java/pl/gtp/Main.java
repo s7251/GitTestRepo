@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println("x220");
+		System.out.println("poprawka hotfix8s");
 
 
 	}
